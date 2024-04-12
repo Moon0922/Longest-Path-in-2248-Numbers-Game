@@ -5,7 +5,7 @@
 <img src="example/result.jpg" width = "400">
 
 ## How to run
-    
+    Longest-Path-in-2248-Numbers-Game.exe ../example/example(1).jpg
 ## Game
  [Android](https://play.google.com/store/apps/details?id=com.inspiredsquare.jupiter&hl=en_US&gl=US)
 
